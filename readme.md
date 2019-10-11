@@ -1,6 +1,17 @@
 # Ubuntu 下一些自动化安装脚本
 
 > 所有安装均在 Ubuntu 16.04 下
+> 以下脚本都默认已经安装过 curl 和更换了源，建议使用 Tsinghua 源
+
+
+
+## 一键更换源脚本
+
+```bash
+wget https://raw.githubusercontent.com/AskeyNil/AskConfiguration/master/sources.sh 
+bash sources.sh
+rm -rf sources.sh
+```
 
 
 
