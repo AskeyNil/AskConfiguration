@@ -13,6 +13,10 @@ bash sources.sh
 rm -rf sources.sh
 ```
 
+### 安装 curl
+```bash
+sudo apt install curl
+```
 
 
 ## ros 安装脚本

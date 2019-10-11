@@ -48,4 +48,4 @@ sudo apt update
 # 6. 安装 curl
 sudo rm -f /var/lib/dpkg/lock
 sudo rm -f /var/cache/apt/archives/lock
-sudo apt install curl
+sudo apt install curl -y
