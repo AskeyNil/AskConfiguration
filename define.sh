@@ -73,6 +73,6 @@ install_dpkg() {
         loading "安装 $3 出现依赖问题，安装所需依赖"
         # 安装出现依赖问题
         sudo rm -f /var/cache/apt/archives/lock
-        sudo apt-get install -yf
+        sudo apt install -yf
     done
 }
