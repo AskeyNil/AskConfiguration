@@ -8,16 +8,16 @@
 ## 一键更换源脚本
 
 ```bash
-wget https://raw.githubusercontent.com/AskeyNil/AskConfiguration/master/sources.sh 
+wget https://raw.githubusercontent.com/AskeyNil/AskConfiguration/master/sources.sh
 bash sources.sh
 rm -rf sources.sh
 ```
 
 ### 安装 curl
+> 如果运行一键更换脚本,则不需要运行此命令,在更换源脚本中已经安装了 curl
 ```bash
 sudo apt install curl
 ```
-
 
 ## ros 安装脚本
 
