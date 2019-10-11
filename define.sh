@@ -1,4 +1,3 @@
-#!/bin/bash
 ###
 # Description: 自定义的一些方法
  # Author: AskeyNil

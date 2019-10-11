@@ -1,3 +1,4 @@
+#!/bin/bash
 ###
 # Description: zsh 安装
  # Author: AskeyNil

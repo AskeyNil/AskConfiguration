@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bas
 ###
 # Description: 更换源
  # Author: AskeyNil
